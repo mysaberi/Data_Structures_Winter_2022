@@ -1,2 +1,2 @@
-# Data_Structures_Winter_2022
-Final project of Data Structures course
+# Data Structures Winter 2022
+**In this project I designed an Auto-Complete system with Trie-Tree**
